@@ -1,0 +1,12 @@
+numpy 
+pandas
+scikit-learn
+matplotlib
+torch
+python-dotenv
+langchain
+langchain_openai
+langchain_community
+pypdf 
+faiss-cpu
+langchain_groq
