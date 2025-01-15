@@ -3,3 +3,4 @@ env/
 .dist/
 __pycache__/
 *.txt
+*.npy
