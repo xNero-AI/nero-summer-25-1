@@ -10,3 +10,5 @@ langchain_community
 pypdf 
 faiss-cpu
 langchain_groq
+pytrends
+langgraph
