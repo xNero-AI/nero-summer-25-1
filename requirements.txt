@@ -13,3 +13,4 @@ langchain_groq
 ## novos
 youtube-transcript-api
 pytube
+streamlit
