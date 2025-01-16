@@ -10,7 +10,8 @@ langchain_community
 pypdf 
 faiss-cpu
 langchain_groq
-## novos
 youtube-transcript-api
 pytube
 streamlit
+pytrends
+langgraph
