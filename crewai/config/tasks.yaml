@@ -1,0 +1,26 @@
+coleta_de_noticias_task:
+  description: >
+    Coleta notícias de um tópico específico {topic}.
+    Focar em notícias recentes e relevantes.
+    Utilizar ferramentas da internet para coletar notícias e mecanismos de recomendação para coletar as informações.
+
+    Informações:
+    - Tópico: {topic}
+    - Data: {date}
+
+
+  expected_output: >
+    Uma lista de notícias relacionadas ao tópico especificado.
+    Cada noticia deve conter título, link e prévia do conteúdo.
+
+
+sumariza_noticia_task:
+  description: >
+    Sumariza notícias coletadas.
+    Extrai informações mais relevantes de cada notícia.
+    Utiliza técnicas de processamento de linguagem natural para sumarizar o conteúdo.
+
+  expected_output: >
+    Uma lista de notícias sumarizadas.
+    Cada noticia deve conter título, link e sumarização do conteúdo.
+
