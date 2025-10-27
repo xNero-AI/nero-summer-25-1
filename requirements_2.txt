@@ -1,0 +1,11 @@
+numpy 
+pandas
+scikit-learn
+matplotlib
+python-dotenv
+langchain
+langchain_openai
+langchain_community
+langchain_groq
+langgraph
+pypdf
